@@ -1,0 +1,1 @@
+messageLabel.setText("Det:Mat1: " + determinant1 + ", Det:Mat2: " + determinant2);
