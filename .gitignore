@@ -1,0 +1,19 @@
+# Java compiled files
+*.class
+
+# VS Code settings
+.vscode/
+
+# Build output (if any)
+bin/
+out/
+
+# System files (Windows/macOS)
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+*.swp
