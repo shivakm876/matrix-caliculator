@@ -90,3 +90,5 @@ MatrixCalculator/
 Feel free to contribute or raise issues if you find any problems!
 
 ```
+📝 License
+This project is licensed under the MIT License.
